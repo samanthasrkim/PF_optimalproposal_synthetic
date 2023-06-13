@@ -1,0 +1,2 @@
+# 0ensemblesize 1Nx 2xmin 3xmax 4ymin 5ymax(degree) 6mu_prior 7sigma_prior 8mu_likehood 9sigma_likelihood
+10000	2    6.5    7.1    53.1   53.5    0    0.8e-4  0 0.8e-3

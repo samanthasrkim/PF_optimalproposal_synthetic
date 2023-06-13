@@ -1,0 +1,2 @@
+# 0resolusion_dx(deg) 1depth 2thickness 3Cm(1/MPa) 4dp(MPa) 
+0.0002 2920 240 1.24e-4 0.35
